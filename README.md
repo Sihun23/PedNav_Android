@@ -35,11 +35,32 @@ PedNav는 보행자의 안전을 위해 **AI 기반 차량 감지 기술**을 �
 ---
 
 ## 🔩 개발 환경
-- **앱 개발**: Android Studio (Java/Kotlin)  
-- **백엔드**: Spring Boot, FastAPI  
-- **AI 모델**: TensorFlow, TensorFlow Lite  
-- **지도 서비스**: 네이버 지도 API  
-- **실시간 통신**: WebSocket  
+
+### **Back-end**
+![SpringBoot](https://img.shields.io/badge/SpringBoot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-0078D4?style=for-the-badge&logo=web&logoColor=white)
+
+### **AI Model**
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+![TensorFlow Lite](https://img.shields.io/badge/TensorFlow%20Lite-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+### **Mobile App**
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### **Database**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+
+### **Infra**
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+
+### **Map & Navigation**
+![Naver Maps API](https://img.shields.io/badge/Naver%20Maps%20API-03C75A.svg?style=for-the-badge&logo=naver&logoColor=white)
+
 
 ---
 
