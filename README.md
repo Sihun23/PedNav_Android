@@ -52,11 +52,6 @@ PedNav는 보행자의 안전을 위해 **AI 기반 차량 감지 기술**을 �
 
 ### **Database**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-
-### **Infra**
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ### **Map & Navigation**
 ![Naver Maps API](https://img.shields.io/badge/Naver%20Maps%20API-03C75A.svg?style=for-the-badge&logo=naver&logoColor=white)
